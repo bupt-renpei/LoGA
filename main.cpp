@@ -1,5 +1,5 @@
 #include <iostream>
-//#include <cstdlib> // For Random()
+#include <cstdlib> // For Random()
 #include <sys/time.h> // For time record
 //#include <time.h>
 //#include <ctime>
